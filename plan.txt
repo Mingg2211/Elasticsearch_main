@@ -1,0 +1,13 @@
+check ham delete , update
+
+{
+  "index_name": "minggz",
+  "question": "sĩ",
+  "lang": [
+    "vi"
+  ],
+  "sentiment": "0",
+  "gte": "2023-03-23 00:00:00",
+  "lte": "2023-03-25 00:00:00",
+  "k": 1
+}
